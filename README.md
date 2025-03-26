@@ -1,8 +1,6 @@
 # Forum-API
 CS1998 PA1
 
-# 🐱 PA1 Flask Reddit Clone API
-
 A simple Reddit-style RESTful API built with Flask. This project simulates basic Reddit functionalities such as posting content, commenting, upvoting, and resetting the database.
 
 ---
